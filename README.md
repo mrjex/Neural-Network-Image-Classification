@@ -139,17 +139,11 @@ The project applied several key information theory and machine learning principl
 
 ## My Related Projects
 
-### AI & Machine Learning
 - [AI Classifiers](https://github.com/mrjex/Artificial-Intelligence-Classifiers)
 - [AWS Generative AI Endpoint](https://github.com/mrjex/AWS-Generative-AI-Endpoint)
 - [Project Branno](https://github.com/mrjex/Project-Branno)
 - [AI Clusters](https://github.com/mrjex/Artificial-Intelligence-Clusters)
 - [Machine Learning Clustering System](https://github.com/mrjex/Machine-Learning-Clustering-System)
-
-### Predictive Modeling
-- [Real Estate Price Prediction](https://github.com/mrjex/Real-Estate-Price-Prediction)
-- [Sagemaker AWS Prediction](https://github.com/mrjex/AWS-Sagemaker-System)
-- [Product Demand Prediction](https://github.com/mrjex/Product-Demand-Prediction)
 
 ---
 
