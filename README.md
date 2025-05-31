@@ -1,4 +1,4 @@
-# 🧠 Neural Network Image Classification
+# Neural Network Image Classification
 
 > Implementing InceptionV3 CNN for robust food image classification
 
@@ -8,24 +8,24 @@
 [![InceptionV3](https://img.shields.io/badge/Model-InceptionV3-green)](https://keras.io/api/applications/inceptionv3/)
 [![Dataset](https://img.shields.io/badge/Dataset-Food_Classification-red)](https://www.kaggle.com/datasets/rizkyyk/dataset-food-classification)
 
-## 📑 Table of Contents
-- [🧠 Neural Network Image Classification](#-neural-network-image-classification)
-  - [📑 Table of Contents](#-table-of-contents)
-  - [🎯 Overview](#-overview)
-  - [🤖 Model Selection](#-model-selection)
-  - [💻 Implementation Approach](#-implementation-approach)
+## Table of Contents
+- [Neural Network Image Classification](#neural-network-image-classification)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Model Selection](#model-selection)
+  - [Implementation Approach](#implementation-approach)
     - [Exploratory Data Analysis](#exploratory-data-analysis)
     - [Model Architecture](#model-architecture)
     - [Optimization Techniques](#optimization-techniques)
-  - [📊 Performance Results](#-performance-results)
-  - [📚 Information Theory Concepts](#-information-theory-concepts)
+  - [Performance Results](#performance-results)
+  - [Information Theory Concepts](#information-theory-concepts)
     - [Entropy and Information Measures](#entropy-and-information-measures)
     - [Advanced Topics](#advanced-topics)
-  - [🔗 Related Projects](#-related-projects)
+  - [My Related Projects](#my-related-projects)
     - [AI \& Machine Learning](#ai--machine-learning)
     - [Predictive Modeling](#predictive-modeling)
 
-## 🎯 Overview
+## Overview
 
 During my exchange studies in Italy (2024-2025), I took the "Foundations of Machine Learning" course focusing on information theory and neural networks. The final project required implementing a deep neural network to classify images from the [Indonesian Food Dataset](https://www.kaggle.com/datasets/rizkyyk/dataset-food-classification).
 
@@ -46,7 +46,7 @@ This dataset contains **6,500 images** across 13 food categories:
 
 I leveraged Kaggle's cloud platform to avoid local computation constraints: [Machine Learning Notebook](https://www.kaggle.com/code/joel0303/machine-learning-notebook).
 
-## 🤖 Model Selection
+## Model Selection
 
 After researching various neural network architectures, I narrowed my options based on project constraints:
 
@@ -60,7 +60,7 @@ After researching various neural network architectures, I narrowed my options ba
 
 Given the one-week project timeline and accuracy requirements, **InceptionV3** proved to be the optimal choice, providing a good balance between computational efficiency and classification performance.
 
-## 💻 Implementation Approach
+## Implementation Approach
 
 ### Exploratory Data Analysis
 
@@ -98,7 +98,7 @@ To enhance model performance and generalization, I implemented several technique
 - **Data Augmentation**: Generated diverse training samples through transformations
 - **Early Stopping**: Monitored validation metrics to prevent overfitting
 
-## 📊 Performance Results
+## Performance Results
 
 The model achieved excellent classification results across the food categories:
 
@@ -114,7 +114,7 @@ The model achieved excellent classification results across the food categories:
 
 ![epochs-chart](readme-material/epochs-charts.PNG)
 
-## 📚 Information Theory Concepts
+## Information Theory Concepts
 
 The project applied several key information theory and machine learning principles:
 
@@ -137,7 +137,7 @@ The project applied several key information theory and machine learning principl
 - **Support Vector Machines**: Margin optimization for classification
 - **Clustering Techniques**: K-means and dominant-set approaches
 
-## 🔗 Related Projects
+## My Related Projects
 
 ### AI & Machine Learning
 - [AI Classifiers](https://github.com/mrjex/Artificial-Intelligence-Classifiers)
